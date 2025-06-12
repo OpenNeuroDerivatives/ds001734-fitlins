@@ -1,0 +1,1 @@
+6f67f6bb-4d13-409b-9a60-19c6ab7f0a1b autoenable=true bucket=openneuro-fitlins datacenter=US encryption=none exporttree=yes fileprefix=ds001734/ host=s3.amazonaws.com name=ds001734 partsize=1GiB port=80 public=yes publicurl=https://s3.amazonaws.com/openneuro-fitlins storageclass=STANDARD type=S3 versioning=yes timestamp=1749757149.894104937s
