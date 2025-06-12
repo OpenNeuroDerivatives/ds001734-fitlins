@@ -1,1 +1,45 @@
-../.git/annex/objects/6J/xX/MD5E-s1225--0e839c77cae5dfa85347ab7fe5afa9e9.json/MD5E-s1225--0e839c77cae5dfa85347ab7fe5afa9e9.json
+{
+  "Name": "Fitlins output",
+  "BIDSVersion": "1.1.0",
+  "PipelineDescription": {
+    "Name": "FitLins",
+    "Version": "0.11.0.post0.dev16",
+    "CodeURL": "https://github.com/poldracklab/fitlins",
+    "Parameters": {
+      "bids_dir": "../ds001734",
+      "output_dir": "../task-MGT",
+      "analysis_level": "participant",
+      "verbose": 1,
+      "quiet": 0,
+      "participant_label": null,
+      "model": "../ds001734-MGT_specs",
+      "derivatives": [
+        "../derivatives"
+      ],
+      "derivative_label": null,
+      "space": "MNI152NLin2009cAsym",
+      "force_index": null,
+      "ignore": [
+        "sub-.*_physio\\.(json|tsv\\.gz)"
+      ],
+      "desc_label": "preproc",
+      "database_path": null,
+      "smoothing": "5:run:iso",
+      "n_cpus": 8,
+      "mem_gb": 78.0,
+      "debug": false,
+      "reports_only": false,
+      "work_dir": "../task-MGT",
+      "drop_missing": true,
+      "estimator": "nilearn",
+      "drift_model": null,
+      "error_ts": false
+    }
+  },
+  "CodeURL": "https://github.com/poldracklab/fitlins",
+  "HowToAcknowledge": "https://github.com/poldracklab/fitlins",
+  "SourceDatasetsURLs": [
+    "https://doi.org/10.18112/openneuro.ds001734.v1.0.5"
+  ],
+  "License": "CC0"
+}
