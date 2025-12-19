@@ -1,0 +1,4 @@
+[submodule "code/openneuro_glmfitlins"]
+	path = code/openneuro_glmfitlins
+	url = https://github.com/demidenm/openneuro_glmfitlins.git
+	datalad-url = https://github.com/demidenm/openneuro_glmfitlins.git
