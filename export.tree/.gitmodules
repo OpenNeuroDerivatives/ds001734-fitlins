@@ -1,0 +1,14 @@
+[submodule "code/openneuro_glmfitlins"]
+	path = code/openneuro_glmfitlins
+	url = https://github.com/demidenm/openneuro_glmfitlins.git
+	datalad-url = https://github.com/demidenm/openneuro_glmfitlins.git
+[submodule "sourcedata/raw"]
+	path = sourcedata/raw
+	url = https://github.com/OpenNeuroDatasets/ds001734.git
+	datalad-id = ca05bc10-29a0-11e9-9a7b-0242ac13000d
+	datalad-url = https://github.com/OpenNeuroDatasets/ds001734.git
+[submodule "sourcedata/fmriprep"]
+	path = sourcedata/fmriprep
+	url = https://github.com/OpenNeuroDerivatives/ds001734-fmriprep.git
+	datalad-id = bc91db0d-44bf-4840-9065-b7d666c2b0dc
+	datalad-url = https://github.com/OpenNeuroDerivatives/ds001734-fmriprep.git
